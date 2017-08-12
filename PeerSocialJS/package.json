@@ -1,0 +1,15 @@
+{
+  "name": "peer-social-js",
+  "version": "0.0.1",
+  "description": "PeerSocialJS",
+  "main": "app.js",
+  "author": {
+    "name": "Mitchell Urgero <info@urgero.org>"
+  },
+  "dependencies": {
+    "bittorrent-dht": "^7.6.0",
+    "file": "^0.2.2",
+    "fs-sync": "^1.0.4",
+    "hash.js": "^1.1.3"
+  }
+}
